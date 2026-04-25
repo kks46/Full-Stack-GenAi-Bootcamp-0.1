@@ -1,0 +1,9 @@
+##  To check the list of PYTHON available : uv python list
+##  For create a venv with specific P ver : uv venv env --python cpython-3.11.15-windows-x86_64-none
+##  Install the requiremnet for the env   : uv pip install -r requirements.txt
+##  Set path to specific folder where Git : $env:Path += ";C:\Program Files\Git\bin;C:\Program Files\Git\cmd"
+
+##  GIT Commands
+    git add .
+    git commit -m "Class 8"
+    git push origin <branch-number>
